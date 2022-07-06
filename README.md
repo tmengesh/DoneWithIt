@@ -1,6 +1,6 @@
 # DoneWithIt
 
-A cross platform mobile app to dive into the concepts of react-native using Expo by Mosh Hamedani written in Typescript. DoneWithIt is a markeet place application for buying and selling used items. 
+A cross-platform mobile app to dive into the concepts of react-native using Expo by Mosh Hamedani written in Typescript. DoneWithIt is a marketplace application for buying and selling used items. 
 
 Run the project
 Install expo-cli:
@@ -20,7 +20,7 @@ Navigate to the root folder:
 > npm install
 > expo start
 Local IP address
-Make sure your correct local IP address is used both on front & back end.
+Make sure your correct local IP address is used both on the front & back end.
 
 Login to expo account
 In case you run into the following error
@@ -30,7 +30,7 @@ make use you have logged in to your expo account via
 
 > expo login
 React-native-debugger
-Go to this github repo, then click release-page and download the latest amd54.deb for ubuntu to get an executable. Install the executable and use this like all other app in your computer. Source
+Go to this GitHub repo, then click release-page and download the latest amd54.deb for ubuntu to get an executable. Install the executable and use this like all other apps on your computer. Source
 
 Expo-icons
 https://icons.expo.fyi/
@@ -39,5 +39,5 @@ Expo API reference
 https://docs.expo.io/versions/latest/
 
 VS code shortcuts
-rnfs - react native functional component with style
+rnfs - react-native functional component with style
 
